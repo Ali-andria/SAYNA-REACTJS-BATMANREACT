@@ -4,7 +4,7 @@ import {NavLink} from 'react-router-dom';
 
 function Header() {
     return (        
-        <header className="shared-image">
+        <header>
             <div className="container">
                 <div className="batman-nav">
                     <nav className="navbar navbar-expand-lg">                    
